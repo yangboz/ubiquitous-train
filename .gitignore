@@ -1,6 +1,7 @@
 *.class
-ubiquitous-train/**/.idea
-ubiquitous-train/target/**/*.*
+.idea
+target/
+ubiquitous-train.iml
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
