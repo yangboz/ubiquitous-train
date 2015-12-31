@@ -1,3 +1,4 @@
+"Life is full of serendipitous moments..."
 # ubiquitous-train
 Spring-boot_Drools_RESTful.
 
